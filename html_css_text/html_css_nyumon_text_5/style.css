@@ -1,0 +1,14 @@
+/* 背景色の設定 */
+body {
+    background-color: #00aeef;
+  }
+  h2 {
+    color: #f9f9f9;
+    font-size: 16px;
+  }
+  #main > p {
+    font-size: 50px;
+  }
+  .section { 
+    background-color: white;
+  }

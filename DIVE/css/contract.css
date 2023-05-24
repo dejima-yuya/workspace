@@ -1,0 +1,21 @@
+.contact tr{
+    height: 7rem;
+}
+
+.contact th{
+    width: 150px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.content button{
+    font-size: 3rem;
+    color: white;
+    background-color: #008B8B;
+    margin: 10px;
+    padding: 5px;
+}
+
+.content button:hover{
+    opacity: 0.5;
+}
